@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird - 飛天小鳥",
+  "description": "經典《Flappy Bird（飛天小鳥）》網頁版遊戲，具備真實物理跳躍、Web Audio 合成音效、隨機水管障礙物與最高分紀錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
